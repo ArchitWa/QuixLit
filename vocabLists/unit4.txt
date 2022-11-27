@@ -1,0 +1,15 @@
+¿Puede?: Can you?
+¿Podría?: Could you?
+decirme: tell me
+explicarme: explain to me
+indicarme: indicate to me
+dónde está: where is
+dónde queda: where is
+cómo ir a: how to go to
+cómo llegar a: how to arrive at
+la calle: street
+la avenida: avenue
+la plaza: plaza
+la estación de trenes: train station
+la estación de taxis: taxi station
+la parada de autobuses: bus stop
